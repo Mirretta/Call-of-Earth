@@ -1,0 +1,1 @@
+{"bought_1": false, "bought_2": false, "bought_3": false, "bought_4": false, "bought_5": false, "bought_6": false, "color_1": "white", "color_2": [57, 69, 110], "color_3": [57, 69, 110], "color_4": [57, 69, 110], "color_5": "white", "color_6": [57, 69, 110], "color_7": [57, 69, 110], "color_8": [57, 69, 110]}
